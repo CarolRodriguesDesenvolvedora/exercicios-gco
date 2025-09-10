@@ -14,3 +14,6 @@ Branches de bugs
 * bug/erro-a1
 * bug/erro-a2
 * bug/erro-a3
+
+Várias pastas e branches
+deletado as branch pre-pro e dev
